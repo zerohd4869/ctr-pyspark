@@ -1,21 +1,3 @@
-
-[deadline: July 16, Twes]
-
-
-**Report Writing**
-
-paper list 1, >2000 words, turnitin
-
-- introduction, related work, challenges and new perspectives
-
-**Slides Writing**
-
-choose one paper in list 2, 20+pages
-
-- motivations, methodology, experimental settings, results, conclusions
-- point out some potential issues and propose my ideas for future directions or improvements
-
-
 ## Spark
 
 **Spark简介**
